@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23ebe3fc-592f-464d-9ef8-b328a2169681" name="变更" comment="第二章 和 第三章的习题">
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter4/task4_9.py" afterDir="false" />
+    <list default="true" id="23ebe3fc-592f-464d-9ef8-b328a2169681" name="变更" comment="第四章习题">
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/task5_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4/task4_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/task4_13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671185075577</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第四章习题">
+      <created>1671198822069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671198822069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +185,7 @@
     <MESSAGE value="将 README 内容修改为中文描述,并添加项目的目的。" />
     <MESSAGE value="添加项目配置文件" />
     <MESSAGE value="第二章 和 第三章的习题" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二章 和 第三章的习题" />
+    <MESSAGE value="第四章习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四章习题" />
   </component>
 </project>
