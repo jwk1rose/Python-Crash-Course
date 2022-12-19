@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23ebe3fc-592f-464d-9ef8-b328a2169681" name="变更" comment="第八章习题">
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_12_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/task9_9.py" afterDir="false" />
+    <list default="true" id="23ebe3fc-592f-464d-9ef8-b328a2169681" name="变更" comment="第9章习题 差一题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter9/task9_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/task9_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671351168842</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第9章习题 差一题">
+      <created>1671372291256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671372291256</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +222,7 @@
     <MESSAGE value="第七章习题最后一题来不及写了" />
     <MESSAGE value="第七章习题最后一题完成" />
     <MESSAGE value="第八章习题" />
-    <option name="LAST_COMMIT_MESSAGE" value="第八章习题" />
+    <MESSAGE value="第9章习题 差一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第9章习题 差一题" />
   </component>
 </project>
